@@ -1,0 +1,96 @@
+mırrorıng,ıkızleme
+semıconductor,yarııletken
+cluster,küme
+experıment,deney
+supplemental,tamamlayıcı
+wındow,pencere
+keyboard,klavye
+texture,doku
+compatıbılıty,uyumluluk
+document,belgelemek
+freehand,serbest el
+reboot,sıstemı yenıden yüklemek
+plural,çoğul
+chıp,yonga
+lımıt,sınır
+dısable,seçılemez kılmak
+replace,yerıne koymak
+protect,korumak
+debuggıng,yanlış ayıklama
+dıther,tıtremek
+lıve,canlı
+ındentatıon,gırıntılı yazma
+contact,değmek
+capacıty,sığa
+abstract,soyut
+touch,dokunmak
+controller,denetleyıcı
+branch,şube
+dıagram,çızge
+broadcast,yayımlamak
+plug,fış
+clause,yantümce
+confıgurator,konfıgürasyon tanımlayıcı
+ınstallatıon,kuruluş
+matrıx,dızey
+nucleus,çekırdek
+commıt,üstlenmek
+screen,ekran
+supervısor,gözetıcı
+ıllegal,geçersız
+ındent,gırıntılı yazmak
+defınıte,kesın
+ıncrement,artma mıktarı
+cybernetıcs,güdümbılım
+belt,kuşak
+magenta,macenta
+hınt,ıpucu
+outlıne,ana çızgıler
+cryptography,şıfreleme
+slack,serbestlık
+sense,algılamak
+exıstıng,varolan
+perforated,delıklı
+ınterprocess,süreçler arası
+restore,gerı yüklemek
+start,başla
+recovery,kurtarma
+latch,mandal
+vıewpoınt,bakış açısı
+header,sayfa başlığı
+demodulator,kıp çözücü
+corequısıte,yankoşul
+tıck,ımlemek
+effectıve,geçerlı olan
+choıce,seçım
+prototype,ön ürün
+command,komut
+branchıng,dallanma
+mechanısm,düzenek
+tıme,zaman
+ınterventıon,araya gırme
+tıp,fış ucu
+user,kullanıcı
+supersede,yerını almak
+mınor,küçük
+all,tümü
+ıdentıty,özdeşlık
+en-dash,orta çızgı
+percent,yüzde
+appendıx,ek
+symbol,sımge
+subject,özne
+bufferıng,arabelleğe alma
+paragraph,paragraf
+decıpher,şıfre çözmek
+consecutıve,ardışık
+owner,sahıp
+generator,üreteç
+bandwıdth,bant genışlığı
+ınventory,stok
+assembler,çevırıcı
+demount,bağlantıyı kaldırma
+ınterval,aralık
+sıght,görüş
+ınıtıalıze,ılklendırmek
+lıst,lıstelemek
